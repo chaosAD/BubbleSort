@@ -21,11 +21,14 @@
 - :test: test_sortLargestToRightMost_should_move_largest_to_the_end_for_3_elements
   :line: 43
   :message: ''
+- :test: test_sortLargestToRightMost_should_move_largest_to_the_end_for_4_elements
+  :line: 51
+  :message: ''
 :failures: []
 :ignores: []
 :counts:
-  :total: 6
-  :passed: 6
+  :total: 7
+  :passed: 7
   :failed: 0
   :ignored: 0
 :stdout: []
